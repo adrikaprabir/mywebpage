@@ -1,0 +1,61 @@
+body{
+    background-color: rgba(255, 255, 255, 0.712);
+}
+.red
+{
+    color: red;
+    font-size: 60px;
+    background-color: aqua;
+}
+.blue
+{
+    color:blue;
+
+}
+#home
+{
+    background-color: darkmagenta;
+}
+h4:hover
+{
+    background-color: yellow;
+    
+}
+h2
+{
+ padding:50px 50px 50px 50px;
+    background-color: aqua;  
+text-align: center;
+}
+.head
+{
+    position: absolute;
+
+}
+.btn
+{
+    margin-left: 100px;
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 1rem;
+    border-radius: 5rem;
+    line-height: 2.75rem;
+    font-size: 1.25rem;
+    font-weight: 250;
+    border: 5px black;
+    background-image:linear-gradient(180deg, rgb(60, 143, 168) 10%,rgb(209, 236, 253) 90%) ;
+box-shadow: black;
+}
+h4 {
+    text-decoration:none;
+    width: fit-content;
+    padding: .75rem 1.5rem;
+    border-radius:  0rem 3.75rem 3.75rem 0rem;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-image:linear-gradient(30deg, rgb(60, 143, 168) 10%,rgb(209, 236, 253) 90% );
+}
+div{
+    background-image: linear-gradient(180deg, rgb(209, 231, 235) 10%, #3abad1 90%);
+}
